@@ -254,7 +254,7 @@ const App = () => {
       </header>
 
       <main>
-        <section className="relative overflow-hidden pb-16 pt-24 md:pt-32">
+        <section className="relative overflow-hidden pb-2 pt-7 md:pb-16 md:pt-32">
           <div className="pointer-events-none absolute inset-0">
             <div className="absolute -left-32 top-8 h-72 w-72 animate-floaty rounded-full bg-ink-400/30 blur-3xl" />
             <div className="absolute right-0 top-20 h-72 w-72 animate-floaty rounded-full bg-sand-300/40 blur-3xl" />
